@@ -103,13 +103,12 @@ paths = {
     }
 }
 
+# These need to be set to the correct paths for these files
+#  Use the full path
 
-inputdeck = '/Users/austintoro/Documents/Coding/NEMO1D-Local_Simtool/simtool/test_AlGaAs_TFn_Cgam.nem'
-material_file = '/Users/austintoro/Documents/Coding/NEMO1D-Local_Simtool/simtool/GaAs.mat'
+inputdeck = ''
+material_file = ''
 
-'''' Debuging specific outputs 
-band_file =  '/Users/austintoro/Documents/Coding/NEMO1D-Local_Simtool/test_AlGaAs_TFQ_Cgam.nd_bnd.json'
-IV_file =  '/Users/austintoro/Documents/Coding/NEMO1D-Local_Simtool/test_AlGaAs_TFQ_Cgam.nd_iv.json'
-'''
+
 new_input_deck_filename = 'new_input_deck.nem'
 
